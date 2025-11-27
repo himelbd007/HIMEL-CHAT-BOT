@@ -2,7 +2,7 @@ module.exports.config = {
  name: "gf",
  version: "7.3.1",
  hasPermssion: 0,
- credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️", 
+ credits: "𝐇𝐢𝐦𝐞𝐥 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭", 
  description: "Get Pair From Mention",
  commandCategory: "img",
  usages: "[@mention]",
