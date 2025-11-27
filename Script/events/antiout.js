@@ -2,7 +2,7 @@ module.exports.config = {
  name: "antiout",
  eventType: ["log:unsubscribe"],
  version: "0.0.1",
- credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+ credits: "𝐇𝐈𝐌𝐄𝐋 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
  description: "Listen events"
 };
 
