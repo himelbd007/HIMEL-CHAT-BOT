@@ -14,7 +14,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	var { threadID, messageID } = event;
 	if (event.body.indexOf("Himel Bokasoda")==0 || event.body.indexOf("Himel mc")==0 || event.body.indexOf("chod")==0 || event.body.indexOf("Himel nodir pola")==0 || event.body.indexOf("bc")==0 || event.body.indexOf("Himel re chudi")==0 || event.body.indexOf("himel re chod")==0 || event.body.indexOf("Himel Abal")==0 || event.body.indexOf("Himel Boakachoda")==0 || event.body.indexOf("Himel madarchod")==0 || event.body.indexOf("Himel re chudi")==0 || event.body.indexOf("Himel Bokachoda")==0) {
 		var msg = {
-				body: "তোর মতো বোকাচোদা রে আমার বস হিমেল চু*দা বাদ দিছে🤣\nসাহু এখন আর hetars চুষে না🥱😈",
+				body: "তোর মতো বোকাচোদা রে আমার বস হিমেল চু*দা বাদ দিছে🤣\nহিমেল এখন আর hetars চুষে না🥱😈",
 			}
 			api.sendMessage(msg, threadID, messageID);
 		}
