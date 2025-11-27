@@ -110,7 +110,7 @@ module.exports.run = function ({ api, event, args, getText }) {
             command.config.commandCategory || "Unknown",  
             command.config.cooldowns || 0,  
             prefix,  
-            global.config.BOTNAME || "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"  
+            global.config.BOTNAME || "𝐇𝐈𝐌𝐄𝐋 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓"  
         );  
 
         downloadImages(files => {  
@@ -143,8 +143,8 @@ module.exports.run = function ({ api, event, args, getText }) {
 ${msg}
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: ${prefix}
-┃ 🤖 Bot Name: ${global.config.BOTNAME || "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"}
-┃ 👑 Owner: 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+┃ 🤖 Bot Name: ${global.config.BOTNAME || "𝐇𝐈𝐌𝐄𝐋 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓"}
+┃ 👑 Owner: ⎯⃝☂️༏༏”♡𝐇𝐈𝐌𝐄𝐋❖═✿⃟ 🌺❤️‍🩹
 ╰━━━━━━━━━━━━━━━━╯`;
 
     downloadImages(files => {  
