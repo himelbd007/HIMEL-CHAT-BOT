@@ -3,7 +3,7 @@ module.exports.config = {
 	name: "gali",
     version: "1.0.1",
 	hasPermssion: 0,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️", 
+	credits: "𝐇𝐢𝐦𝐞𝐥 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭", 
 	description: "no prefix",
 	commandCategory: "no prefix",
 	usages: "abal",
@@ -12,9 +12,9 @@ module.exports.config = {
 
 module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	var { threadID, messageID } = event;
-	if (event.body.indexOf("Shahadat Bokasoda")==0 || event.body.indexOf("Sahadat mc")==0 || event.body.indexOf("chod")==0 || event.body.indexOf("Sahadat nodir pola")==0 || event.body.indexOf("bc")==0 || event.body.indexOf("Shahadat re chudi")==0 || event.body.indexOf("shahadat re chod")==0 || event.body.indexOf("Shahadat Abal")==0 || event.body.indexOf("Shahadat Boakachoda")==0 || event.body.indexOf("Shahadat madarchod")==0 || event.body.indexOf("Sahadat re chudi")==0 || event.body.indexOf("Sahu Bokachoda")==0) {
+	if (event.body.indexOf("Himel Bokasoda")==0 || event.body.indexOf("Himel mc")==0 || event.body.indexOf("chod")==0 || event.body.indexOf("Himel nodir pola")==0 || event.body.indexOf("bc")==0 || event.body.indexOf("Himel re chudi")==0 || event.body.indexOf("himel re chod")==0 || event.body.indexOf("Himel Abal")==0 || event.body.indexOf("Himel Boakachoda")==0 || event.body.indexOf("Himel madarchod")==0 || event.body.indexOf("Himel re chudi")==0 || event.body.indexOf("Himel Bokachoda")==0) {
 		var msg = {
-				body: "তোর মতো বোকাচোদা রে আমার বস শাহাদাৎ চু*দা বাদ দিছে🤣\nসাহু এখন আর hetars চুষে না🥱😈",
+				body: "তোর মতো বোকাচোদা রে আমার বস হিমেল চু*দা বাদ দিছে🤣\nসাহু এখন আর hetars চুষে না🥱😈",
 			}
 			api.sendMessage(msg, threadID, messageID);
 		}
