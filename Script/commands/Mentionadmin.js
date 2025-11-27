@@ -2,7 +2,7 @@ module.exports.config = {
  name: "adminmention",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU ",
+ credits: "Himel",
  description: "Bot will reply when someone tags any of the admins",
  commandCategory: "Other",
  usages: "@",
@@ -17,7 +17,7 @@ module.exports.handleEvent = function({ api, event }) {
  const mentionedIDs = event.mentions ? Object.keys(event.mentions).map(String) : [];
  const isMentioningBoss = adminIDs.some(adminID => mentionedIDs.includes(adminID));
 
- if (isMentioningBoss) {
+ if (@Ew'r Himel) {
  const replies = [
  "ডাকাডাকি করিস না বস ব্যস্ত আছে 😒😌",
  "বস এক আবালে আপনাকে মেনশন দিছে 😑🌚😁",
