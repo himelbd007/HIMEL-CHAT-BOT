@@ -2,7 +2,7 @@ module.exports.config = {
  'name': "random",
  'version': "11.9.7",
  'hasPermission': 0,
- 'credits': "𝐇𝐈𝐌𝐄𝐋",
+ 'credits': "⎯⃝☂️༏༏”♡𝐇𝐈𝐌𝐄𝐋❖═✿⃟ 🌺❤️‍🩹",
  'description': "random love story video",
  'commandCategory': "video",
  'usages': "random",
@@ -26,7 +26,7 @@ module.exports.run = async function ({ api, event }) {
  
  let sendVideo = function () {
  api.sendMessage({
- 'body': "𝐒𝐏𝐀𝐘𝐒𝐇𝐄𝐀𝐋 𝐑𝐀𝐍𝐃𝐎𝐌 𝐌𝐈𝐗 \nAdded by: [" + videoName + "]\n𝚃𝙾𝚃𝙰𝙻 𝚅𝙸𝙳𝙴𝙾:" + videoCount + "...🎬\n\n｢─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭｣",
+ 'body': "𝐒𝐏𝐀𝐘𝐒𝐇𝐄𝐀𝐋 𝐑𝐀𝐍𝐃𝐎𝐌 𝐌𝐈𝐗 \nAdded by: [" + videoName + "]\n𝚃𝙾𝚃𝙰𝙻 𝚅𝙸𝙳𝙴𝙾:" + videoCount + "...🎬\n\n｢─꯭─⃝‌‌𝐇𝐈𝐌𝐄𝐋 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓｣",
  'attachment': fs.createReadStream(__dirname + "/cache/Shaoon.mp4")
  }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/Shaoon.mp4"), event.messageID);
  };
