@@ -6,7 +6,7 @@ module.exports.config = {
     name: "help",
     version: "2.0.0",
     hasPermssion: 0,
-    credits: "SHAHADAT SAHU",
+    credits: "𝐇𝐈𝐌𝐄𝐋 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
     description: "Shows all commands with details",
     commandCategory: "system",
     usages: "[command name/page number]",
@@ -32,7 +32,7 @@ module.exports.languages = {
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: %8
 ┃ 🤖 Bot Name: %9
-┃ 👑 Owner: 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+┃ 👑 Owner: ⎯⃝☂️༏༏”♡𝐇𝐈𝐌𝐄𝐋❖═✿⃟ 🌺❤️‍🩹
 ╰━━━━━━━━━━━━━━━━╯`,
         "helpList": "[ There are %1 commands. Use: \"%2help commandName\" to view more. ]",
         "user": "User",
@@ -43,10 +43,10 @@ module.exports.languages = {
 
 // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
 const helpImages = [
-    "https://i.imgur.com/sxSn1K3.jpeg",
-    "https://i.imgur.com/8WvpgUL.jpeg",
-    "https://i.imgur.com/8WvpgUL.jpeg",
-    "https://i.imgur.com/sxSn1K3.jpeg"
+    "https://drive.google.com/file/d/1Py7p4jvU08RaYdABR26y3c2Lrh1BXB_b/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1Py7p4jvU08RaYdABR26y3c2Lrh1BXB_b/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1Py7p4jvU08RaYdABR26y3c2Lrh1BXB_b/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1Py7p4jvU08RaYdABR26y3c2Lrh1BXB_b/view?usp=drivesdk"
 ];
 
 
