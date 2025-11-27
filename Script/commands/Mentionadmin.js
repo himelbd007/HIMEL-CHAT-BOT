@@ -1,5 +1,5 @@
 module.exports.config = {
- name: "adminmention",
+ name: "Himel",
  version: "1.0.0",
  hasPermssion: 0,
  credits: "Himel",
