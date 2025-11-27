@@ -39,10 +39,10 @@ module.exports.run = async function ({ api, event }) {
 `;
 
   const images = [
-    "https://i.imgur.com/8WBso8x.png",
-    "https://i.imgur.com/0VZu5eY.png",
-    "https://i.imgur.com/bkixgPK.jpeg",
-    "https://i.imgur.com/z6G6L4c.jpeg"
+    "https://drive.google.com/file/d/1Py7p4jvU08RaYdABR26y3c2Lrh1BXB_b/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1Py7p4jvU08RaYdABR26y3c2Lrh1BXB_b/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1Py7p4jvU08RaYdABR26y3c2Lrh1BXB_b/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1Py7p4jvU08RaYdABR26y3c2Lrh1BXB_b/view?usp=drivesdk"
   ];
 
   const randomImg = images[Math.floor(Math.random() * images.length)];
