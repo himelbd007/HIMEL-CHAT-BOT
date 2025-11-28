@@ -39,10 +39,7 @@ module.exports.run = async function ({ api, event }) {
 `;
 
   const images = [
-    "https://drive.google.com/file/d/1Py7p4jvU08RaYdABR26y3c2Lrh1BXB_b/view?usp=drivesdk",
-    "https://drive.google.com/file/d/1Py7p4jvU08RaYdABR26y3c2Lrh1BXB_b/view?usp=drivesdk",
-    "https://drive.google.com/file/d/1Py7p4jvU08RaYdABR26y3c2Lrh1BXB_b/view?usp=drivesdk",
-    "https://drive.google.com/file/d/1Py7p4jvU08RaYdABR26y3c2Lrh1BXB_b/view?usp=drivesdk"
+    
   ];
 
   const randomImg = images[Math.floor(Math.random() * images.length)];
